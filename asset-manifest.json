@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/starbucks/static/css/main.6a36459b.css",
-    "main.js": "/starbucks/static/js/main.0dd45c13.js",
+    "main.js": "/starbucks/static/js/main.4425f60c.js",
     "reactPlayerYouTube.js": "/starbucks/static/js/reactPlayerYouTube.bd6966b9.chunk.js",
     "reactPlayerSoundCloud.js": "/starbucks/static/js/reactPlayerSoundCloud.15c7d18e.chunk.js",
     "reactPlayerVimeo.js": "/starbucks/static/js/reactPlayerVimeo.aa4259a6.chunk.js",
@@ -26,7 +26,7 @@
     "static/media/drive_through_rail2.png": "/starbucks/static/media/drive_through_rail2.5c441c738e4ecdfa0c3a.png",
     "index.html": "/starbucks/index.html",
     "main.6a36459b.css.map": "/starbucks/static/css/main.6a36459b.css.map",
-    "main.0dd45c13.js.map": "/starbucks/static/js/main.0dd45c13.js.map",
+    "main.4425f60c.js.map": "/starbucks/static/js/main.4425f60c.js.map",
     "reactPlayerYouTube.bd6966b9.chunk.js.map": "/starbucks/static/js/reactPlayerYouTube.bd6966b9.chunk.js.map",
     "reactPlayerSoundCloud.15c7d18e.chunk.js.map": "/starbucks/static/js/reactPlayerSoundCloud.15c7d18e.chunk.js.map",
     "reactPlayerVimeo.aa4259a6.chunk.js.map": "/starbucks/static/js/reactPlayerVimeo.aa4259a6.chunk.js.map",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.6a36459b.css",
-    "static/js/main.0dd45c13.js"
+    "static/js/main.4425f60c.js"
   ]
 }
